@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Text_notes_app</string>
+    <string name="note_title_hint">Новая заметка</string>
+</resources>
